@@ -1,0 +1,44 @@
+@import '../fonts/fonts.scss';
+
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  background-color: #efd4c3;
+  color: #252525;
+  padding-block: 20px;
+  padding-inline: 100px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  border: none;
+  font-family: inherit;
+  background-color: transparent;
+  color: inherit;
+}
+
+@media (max-width: 765px) {
+  body {
+    padding-inline: 20px;
+  }
+}
