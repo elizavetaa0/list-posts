@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/list-posts/static/css/main.44ff3f64.css",
+    "main.js": "/list-posts/static/js/main.db33e498.js",
+    "static/media/Inter-Medium.ttf": "/list-posts/static/media/Inter-Medium.ba15b4b791eac2290209.ttf",
+    "static/media/Inter-SemiBold.ttf": "/list-posts/static/media/Inter-SemiBold.4f014c89a910a1936217.ttf",
+    "static/media/Inter-Bold.ttf": "/list-posts/static/media/Inter-Bold.29c3b627c19a378074e6.ttf",
+    "static/media/Inter-Regular.ttf": "/list-posts/static/media/Inter-Regular.eeefaa8241be2c0a7073.ttf",
+    "static/media/Inter-Bold.woff": "/list-posts/static/media/Inter-Bold.3cf58596269ad13bb894.woff",
+    "static/media/Inter-SemiBold.woff": "/list-posts/static/media/Inter-SemiBold.088d3cf02a1f2a85127c.woff",
+    "static/media/Inter-Medium.woff": "/list-posts/static/media/Inter-Medium.e369b71584c45eda4869.woff",
+    "static/media/Inter-Regular.woff": "/list-posts/static/media/Inter-Regular.d92cbb210950cc252907.woff",
+    "static/media/Inter-Bold.woff2": "/list-posts/static/media/Inter-Bold.5055fedf1fc1dfae80aa.woff2",
+    "static/media/Inter-SemiBold.woff2": "/list-posts/static/media/Inter-SemiBold.6ba02431a98484a2cbde.woff2",
+    "static/media/Inter-Medium.woff2": "/list-posts/static/media/Inter-Medium.e11c789edffb34e94493.woff2",
+    "static/media/Inter-Regular.woff2": "/list-posts/static/media/Inter-Regular.c0db08626b6256071bdc.woff2",
+    "index.html": "/list-posts/index.html",
+    "main.44ff3f64.css.map": "/list-posts/static/css/main.44ff3f64.css.map",
+    "main.db33e498.js.map": "/list-posts/static/js/main.db33e498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44ff3f64.css",
+    "static/js/main.db33e498.js"
+  ]
+}
